@@ -19,7 +19,7 @@ header nav ul li {
 }
 
 li {
-  color: white; 
+  color: white;
 }
 
 .first {
@@ -75,6 +75,14 @@ h1 {
 
 
 #container {
+  width: 610px;
+  height: 600px;
+  min-width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+#containtertwo {
   width: 610px;
   height: 600px;
   min-width: 100%;
