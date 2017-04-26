@@ -72,6 +72,14 @@ h1 {
   font-style: italic;
 }
 
+#HERE {
+  width: 610px;
+  height: 600px;
+  min-width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
 
 
 #container {
@@ -91,14 +99,6 @@ h1 {
 }
 
 #containerthree {
-  width: 610px;
-  height: 600px;
-  min-width: 100%;
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-#containerfour {
   width: 610px;
   height: 600px;
   min-width: 100%;
