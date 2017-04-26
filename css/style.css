@@ -27,10 +27,15 @@ p{
   font-family: sans-serif;
 }
 
-h1 {
+.homeh1 {
   font-family: sans-serif;
   color: white;
   font-size: 120px;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 36px; 
 }
 
 .fullscreen-bg {
