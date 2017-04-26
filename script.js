@@ -64,7 +64,69 @@ Highcharts.chart("container", {
       },
 
       series: [{
-          name: "Production",
+          name: "Exports",
           data: [28397, 74913, 78475, 66905, 75005, 68464, 82246]
       }]
     })
+
+    Highcharts.chart('containerthree', {
+
+        title: {
+            text: 'Milk Cows by Region from 2011 to 2015'
+        },
+
+        subtitle: {
+            text: 'Source: U.S.D.A. ERS'
+        },
+
+        yAxis: {
+            title: {
+                text: 'Number of Dairy Cows'
+            }
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle'
+        },
+
+        plotOptions: {
+            series: {
+                pointStart: 2011
+            }
+        },
+
+        series: [{
+            name: 'Northeast Region',
+            data: [1429, 1420, 1415, 1416, 1417]
+        }, {
+            name: 'Lake States',
+            data: [2009, 2110, 2115, 2121, 2147]
+        }, {
+            name: 'Corn Belt Region',
+            data: [837, 842, 842, 835, 842]
+        }, {
+            name: 'Northern Plains Region',
+            data: [290, 292, 300, 308, 322]
+        }, {
+            name: 'Appalachian Region',
+            data: [277, 276, 270, 257, 253]
+        }, {
+            name: 'Southeast Region',
+            data: [224, 229, 228, 228, 231]
+        }, {
+            name: 'Delta States',
+            data: [44, 41, 39, 35, 32]
+        }, {
+            name: 'Southern Plains',
+            data: [484, 484, 482, 503, 502]
+        }, {
+          name: 'Mountain Region',
+            data: [1365, 1375, 1367, 1379, 1394]
+        }, {
+          name: 'Pacific Region',
+          data: [2152, 2169, 2172, 2180, 2183]
+      }, {
+      }]
+
+    });
