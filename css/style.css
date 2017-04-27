@@ -37,7 +37,7 @@ li {
 
 p{
   font-family: sans-serif;
-  margin: 10px 0 0 10px; 
+  margin: 10px 0 0 10px;
 }
 
 .homeh1 {
@@ -74,14 +74,6 @@ h1 {
   font-style: italic;
 }
 
-#containerfour {
-  width: 610px;
-  height: 600px;
-  min-width: 100%;
-  max-width: 100%;
-  margin-left: 10px 0 0 10px; ;
-}
-
 #container {
   width: 610px;
   height: 600px;
@@ -104,6 +96,22 @@ h1 {
   min-width: 100%;
   max-width: 100%;
   margin: 0 auto;
+}
+
+#containerfour {
+  width: 610px;
+  height: 600px;
+  min-width: 100%;
+  max-width: 100%;
+  margin-left: 10px 0 0 10px;
+}
+
+#containerfive {
+  width: 610px;
+  height: 600px;
+  min-width: 100%;
+  max-width: 100%;
+  margin-left: 10px 0 0 10px; 
 }
 
 video {
