@@ -34,7 +34,7 @@ Highcharts.chart("containerfour", {
   });
 
 
-$.getJSON('data.json', function (data) {
+$.getJSON('data.json', function(data) {
 
     // Make codes uppercase to match the map data
     $.each(data, function () {
@@ -94,4 +94,4 @@ $.getJSON('data.json', function (data) {
               }
           }]
       });
-      });
+    });
