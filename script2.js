@@ -1,5 +1,6 @@
 Highcharts.chart("containerfour", {
 
+
     title: {
         text: "U.S. Milk Production from 2010 to 2017"
     },
@@ -44,7 +45,9 @@ $.getJSON('data.json', function(data) {
   Highcharts.mapChart('containerfive', {
 
           chart: {
-              borderWidth: 1
+              borderWidth: 1,
+              renderTo: 'containerfive',
+              type: 'map'
           },
 
           title: {
