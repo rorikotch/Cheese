@@ -1,78 +1,78 @@
 ?([
     {
-        "value": 438,
+        "value": 7,
         "code": "nj"
     },
     {
-        "value": 387.35,
+        "value": 0.9,
         "code": "ri"
     },
     {
-        "value": 312.68,
+        "value": 12000,
         "code": "ma"
     },
     {
-        "value": 271.4,
+        "value": 19000,
         "code": "ct"
     },
     {
-        "value": 209.23,
+        "value": 49000,
         "code": "md"
     },
     {
-        "value": 195.18,
+        "value": 618,
         "code": "ny"
     },
     {
-        "value": 154.87,
+        "value": 5000,
         "code": "de"
     },
     {
-        "value": 114.43,
+        "value": 125000,
         "code": "fl"
     },
     {
-        "value": 107.05,
+        "value": 267000,
         "code": "oh"
     },
     {
-        "value": 105.8,
+        "value": 530,
         "code": "pa"
     },
     {
-        "value": 86.27,
+        "value": 94000,
         "code": "il"
     },
     {
-        "value": 83.85,
+        "value": 177800,
         "code": "ca"
     },
     {
-        "value": 72.83,
+        "value": 2200,
         "code": "hi"
     },
     {
-        "value": 69.03,
+        "value": 91000,
         "code": "va"
     },
     {
-        "value": 67.55,
+        "value": 408000,
         "code": "mi"
     },
     {
-        "value": 65.46,
+        "value": 182000,
         "code": "in"
     },
     {
-        "value": 63.8,
+        "value": 47000,
         "code": "nc"
     },
     {
-        "value": 54.59,
+        "value": 83000,
         "code": "ga"
     },
     {
-        "value": 53.29,
+        "value": 45000,
         "code": "tn"
     },
     {
@@ -80,71 +80,71 @@
         "code": "nh"
     },
     {
-        "value": 51.45,
+        "value": 15000,
         "code": "sc"
     },
     {
-        "value": 39.61,
+        "value": 14000,
         "code": "la"
     },
     {
-        "value": 39.28,
+        "value": 61000,
         "code": "ky"
     },
     {
-        "value": 38.13,
+        "value": 127900,
         "code": "wi"
     },
     {
-        "value": 34.2,
+        "value": 277000,
         "code": "wa"
     },
     {
-        "value": 33.84,
+        "value": 8000,
         "code": "al"
     },
     {
-        "value": 31.36,
+        "value": 88000,
         "code": "mo"
     },
     {
-        "value": 30.75,
+        "value": 463000,
         "code": "tx"
     },
     {
-        "value": 29,
+        "value": 9000,
         "code": "wv"
     },
     {
-        "value": 25.41,
+        "value": 132,
         "code": "vt"
     },
     {
-        "value": 23.86,
+        "value": 460000,
         "code": "mn"
     },
     {
-        "value": 23.42,
+        "value": 11000,
         "code": "ms"
     },
     {
-        "value": 20.22,
+        "value": 211000,
         "code": "ia"
     },
     {
-        "value": 19.82,
+        "value": 7000,
         "code": "ar"
     },
     {
-        "value": 19.4,
+        "value": 39000,
         "code": "ok"
     },
     {
-        "value": 17.43,
+        "value": 195000,
         "code": "az"
     },
     {
-        "value": 16.01,
+        "value": 146000,
         "code": "co"
     },
     {
@@ -152,51 +152,51 @@
         "code": "me"
     },
     {
-        "value": 13.76,
+        "value": 125000,
         "code": "or"
     },
     {
-        "value": 12.69,
+        "value": 143000,
         "code": "ks"
     },
     {
-        "value": 10.5,
+        "value": 96000,
         "code": "ut"
     },
     {
-        "value": 8.6,
+        "value": 57000,
         "code": "ne"
     },
     {
-        "value": 7.03,
+        "value": 29000,
         "code": "nv"
     },
     {
-        "value": 6.04,
+        "value": 585000,
         "code": "id"
     },
     {
-        "value": 5.79,
+        "value": 323000,
         "code": "nm"
     },
     {
-        "value": 3.84,
+        "value": 106000,
         "code": "sd"
     },
     {
-        "value": 3.59,
+        "value": 16000,
         "code": "nd"
     },
     {
-        "value": 2.39,
+        "value": 14000,
         "code": "mt"
     },
     {
-        "value": 1.96,
+        "value": 6000,
         "code": "wy"
     },
     {
-        "value": 0.42,
+        "value": 0.3,
         "code": "ak"
     }
 ]);

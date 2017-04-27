@@ -74,6 +74,14 @@ h1 {
   font-style: italic;
 }
 
+a:visited{
+  color: white;
+}
+
+a:hover {
+  color: orange;
+}
+
 #container {
   width: 610px;
   height: 600px;
@@ -111,23 +119,17 @@ h1 {
   height: 600px;
   min-width: 100%;
   max-width: 100%;
-  margin-left: 10px 0 0 10px; 
+  margin-left: 10px 0 0 10px;
 }
 
 video {
   max-width: 100%;
   max-height: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;  
 }
 
 #sources {
   font-size: 11px;
   font-style: italic;
-}
-
-a:visited{
-  color: white;
-}
-
-a:hover {
-  color: orange;
 }

@@ -33,7 +33,8 @@ Highcharts.chart("containerfour", {
     }]
   });
 
-  $.getJSON('https://www.highcharts.com/samples/data/jsonp.php?filename=us-population-density.json&callback=?', function (data) {
+
+$.getJSON('data.json', function (data) {
 
     // Make codes uppercase to match the map data
     $.each(data, function () {
@@ -47,7 +48,7 @@ Highcharts.chart("containerfour", {
           },
 
           title: {
-              text: 'US Milk Producing States by Population of Dairy Cows'
+              text: 'US Milk Producing States by Population of Dairy Cows in Thousands'
           },
 
           legend: {
@@ -87,9 +88,10 @@ Highcharts.chart("containerfour", {
                   color: '#FFFFFF',
                   format: '{point.code}'
               },
-              name: 'dairy cow density',
+              name: 'dairy cow population in thousands',
               tooltip: {
-                  pointFormat: '{point.code}: {point.value}/km²'
+                  pointFormat: '{point.code}: {point.value}'
               }
           }]
+      });
       });
