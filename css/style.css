@@ -113,3 +113,11 @@ video {
   font-size: 11px;
   font-style: italic;
 }
+
+a:visited{
+  color: white;
+}
+
+a:hover {
+  color: orange; 
+}
